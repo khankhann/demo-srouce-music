@@ -101,7 +101,7 @@ toast : function ({title = "", message ="" , type ="", duration}){
       mainn.classList.add('toast', `toast--${type}`)
       setTimeout(() => {
           toastBox.removeChild(mainn)
-      }, duration+2000);
+      }, duration+1000);
       const icon = {
         success :"fa-solid fa-check"
       }
