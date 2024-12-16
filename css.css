@@ -44,7 +44,7 @@ body>div {
   padding: 20px 0;
   margin-top: 20px;
   animation: sileLeft ease .5s, fadeOut linear .5s 2s forwards;
-  transition: all linear 3s;
+  transition: all linear 1s;
 }
 
 .toast-icon {
