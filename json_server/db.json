@@ -1,0 +1,47 @@
+{
+    "songs" : [
+        {
+            
+            "id":1,
+            "name": "Âm thầm bên em",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://a128-z3.zmdcdn.me/523fb2bef2f3b3c8497c6efe228c737c?authen=exp=1732594362~acl=/523fb2bef2f3b3c8497c6efe228c737c*~hmac=929416ded851d5a8567915cecd5f7f24",
+            "image": "https://i.ytimg.com/vi/30KI5SuECuc/hqdefault.jpg"
+        },
+        {
+            "id":2,
+            "name": "Em của ngày hôm qua",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://vnso-zn-24-tf-a128-z3.zmdcdn.me/2703e88a97437d7bc2ddc8ddb7e4de12?authen=exp=1732823676~acl=/2703e88a97437d7bc2ddc8ddb7e4de12*~hmac=1f83c9703d84c3d75ba1662318053fcd",
+            "image": "https://i.ytimg.com/vi/kebCY6ahbHQ/hqdefault.jpg"
+        },     
+        {   
+            "id":3,
+            "name": "Hãy trao cho anh",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://vnso-zn-24-tf-a128-z3.zmdcdn.me/593b54ec5c26d2a70585377cf9374578?authen=exp=1732594499~acl=/593b54ec5c26d2a70585377cf9374578*~hmac=c764d2f18b6a005557f4e652ea1efff1",
+            "image": "https://static1.bestie.vn/Mlog/ImageContent/201907/suc-hut-cua-son-tung-trong-lan-comeback-voi-hay-trao-cho-anh-002948.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Lạc trôi",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://vnso-pt-51-tf-a128-z3.zmdcdn.me/756ba39ea07eb46c326b54c999668a94?authen=exp=1732594354~acl=/756ba39ea07eb46c326b54c999668a94*~hmac=53069c5a3dd7d74adef5520af830b072",
+            "image": "https://static.tuoitre.vn/tto/i/s626/2016/12/12/lac-troi-teasing-artwork-ngang-logo-1481512811.jpg"
+        },
+        {
+            "id":5,
+            "name": "Nơi này có anh",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://vnso-pt-8-tf-a128-z3.zmdcdn.me/d17d79105dfcbf67208389c9e8fc9c42?authen=exp=1732594417~acl=/d17d79105dfcbf67208389c9e8fc9c42*~hmac=c3128a347fb6cea0b599c3ca9a6231f6",
+            "image": "https://i.ytimg.com/vi/FN7ALfpGxiI/maxresdefault.jpg"
+        },      
+         {
+            "id":6,
+            "name": "Chúng ta của hiện tại",
+            "singer": "Sơn Tùng MTP",
+            "path": "https://vnso-pt-8-tf-a128-z3.zmdcdn.me/9d5e0023aeae573dc1000abec75de7d1?authen=exp=1732594630~acl=/9d5e0023aeae573dc1000abec75de7d1*~hmac=ca33702294888450ad88e69dac7af97d",
+            "image": "https://i.ytimg.com/vi/psZ1g9fMfeo/maxresdefault.jpg"
+        }
+    ]
+}
